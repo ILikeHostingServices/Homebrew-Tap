@@ -3,8 +3,8 @@
 class ScreencapDocumentationTool < Formula
   desc "Turns screen recordings into step-by-step screenshot documentation"
   homepage "https://github.com/ILikeHostingServices/Screencap-Documentation-Tool"
-  url "https://github.com/ILikeHostingServices/Screencap-Documentation-Tool/archive/refs/tags/v1.30.0.tar.gz"
-  sha256 "3a098bd94a84959cf877d6cbf271ece1b7b0fdc2b266c3e184b2a925dc3119aa"
+  url "https://github.com/ILikeHostingServices/Screencap-Documentation-Tool/archive/refs/tags/v1.31.2.tar.gz"
+  sha256 "edcdd9a529117e7a8e89005aaf4d27f7e67dda58677759268fa0497517e07b52"
   license "MIT"
 
   depends_on "ffmpeg"
